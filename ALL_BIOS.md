@@ -7,3 +7,5 @@ Instructions: Please add your bio to the team below.  Be creative!  We want to k
 [John Riley](john-riley.md)
 [James Craig](james-craig.md)
 ---------
+
+[Chris Spencer](chris.spencer.md)
